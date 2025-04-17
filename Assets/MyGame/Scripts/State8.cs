@@ -31,6 +31,6 @@ public class State8 : I7SegmentDisplayState
     }
     public I7SegmentDisplayState CountUp()
     {
-        return State8.GetState();
+        return State9.GetState();
     }
 }
